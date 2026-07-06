@@ -16,8 +16,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunilbadu&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
